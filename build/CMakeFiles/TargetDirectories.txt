@@ -1,3 +1,0 @@
-/home/rayit/Dev/my_project/build/CMakeFiles/project.dir
-/home/rayit/Dev/my_project/build/CMakeFiles/edit_cache.dir
-/home/rayit/Dev/my_project/build/CMakeFiles/rebuild_cache.dir
