@@ -5,8 +5,7 @@ find_package(OpenGL REQUIRED)
 
 add_executable(project 
         src/main.cpp
-        src/glad.c
-        src/glad.h)
+        src/glad.c)
 
 include_directories(include)
 
