@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/rayit/Dev/my_project/build",
+  "command": "/usr/bin/c++  -I/home/rayit/Dev/my_project/include -g -o CMakeFiles/project.dir/src/main.cpp.o -c /home/rayit/Dev/my_project/src/main.cpp",
+  "file": "/home/rayit/Dev/my_project/src/main.cpp",
+  "output": "CMakeFiles/project.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/rayit/Dev/my_project/build",
+  "command": "/usr/bin/cc  -I/home/rayit/Dev/my_project/include -g -o CMakeFiles/project.dir/src/glad.c.o -c /home/rayit/Dev/my_project/src/glad.c",
+  "file": "/home/rayit/Dev/my_project/src/glad.c",
+  "output": "CMakeFiles/project.dir/src/glad.c.o"
+}
+]
